@@ -1,0 +1,21 @@
+cp /home/jmmurray/workspace/code/nk3/results/results_re/*.png /home/jmmurray/workspace/research/initexp/results/results_re/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_reallinit/*.png /home/jmmurray/workspace/research/initexp/results/results_reallinit/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_reinit/*.png /home/jmmurray/workspace/research/initexp/results/results_reinit/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_wlsinit/*.png /home/jmmurray/workspace/research/initexp/results/results_wlsinit/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_re/*.csv /home/jmmurray/workspace/research/initexp/results/results_re/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_reallinit/*.csv /home/jmmurray/workspace/research/initexp/results/results_reallinit/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_reinit/*.csv /home/jmmurray/workspace/research/initexp/results/results_reinit/
+
+cp /home/jmmurray/workspace/code/nk3/results/results_wlsinit/*.csv /home/jmmurray/workspace/research/initexp/results/results_wlsinit/
+
+
+
+cp /home/jmmurray/workspace/code/nk3/results/*.png /home/jmmurray/workspace/research/initexp/results/
+
+cp /home/jmmurray/workspace/code/nk3/results/*.tex /home/jmmurray/workspace/research/initexp/results/

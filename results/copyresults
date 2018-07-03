@@ -1,0 +1,32 @@
+cd results_re
+cp results.csv ../results_re.csv
+cd ..
+
+cd results_reallinit
+cp results.csv ../results_reallinit.csv
+cd ..
+
+cd results_reinit
+cp results.csv ../results_reinit.csv
+cd ..
+
+cd results_wlsinit
+cp results.csv ../results_wlsinit.csv
+cd ..
+
+cd results_re_fore
+cp results.csv ../results_re_fore.csv
+cd ..
+
+cd results_reallinit_fore
+cp results.csv ../results_reallinit_fore.csv
+cd ..
+
+cd results_reinit_fore
+cp results.csv ../results_reinit_fore.csv
+cd ..
+
+cd results_wlsinit_fore
+cp results.csv ../results_wlsinit_fore.csv
+cd ..
+
